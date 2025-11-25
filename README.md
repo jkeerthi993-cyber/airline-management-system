@@ -16,9 +16,9 @@ Responsive Design: Basic responsive templates that work on various device sizes.
 Tech Stack
 Backend Framework: Django 4.2+
 
-Frontend: HTML, CSS (Bootstrap recommended if used)
+Frontend: HTML, CSS, Bootstrap
 
-Database: SQLite (Default for development)
+Database: SQLite
 
 Language: Python 3.8+
 
